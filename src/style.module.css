@@ -1,0 +1,16 @@
+.background {
+  background-image: url(../public/img/background.jpg);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  /* filter: brightness(50%); */
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.glassesStyle {
+  width: 115px;
+  top: 16%;
+  opacity: 0.8;
+  left: 722px;
+}
